@@ -33,7 +33,7 @@ Projects
 Cryptocurrency Market – Financial Risk Management
 
 Objective  
-To analyze cryptocurrency market data and understand volatility, risk, and return behavior.
+1.To analyze cryptocurrency market data and understand volatility, risk, and return behavior.
 
 Work Summary  
 Analyzed historical cryptocurrency price data using Python and SQL. Performed exploratory data analysis to study volatility and return patterns. Built Tableau dashboards to visualize price trends, risk distribution, and drawdowns. Identified high-risk and high-return assets to support risk-aware decision-making.
@@ -41,7 +41,7 @@ Analyzed historical cryptocurrency price data using Python and SQL. Performed ex
 Tools Used  
 Python, SQL, Tableau, Excel
 
-Air Pollution Analysis – Indian Mega Cities
+2.Air Pollution Analysis – Indian Mega Cities
 
 Objective  
 To analyze air pollution trends across major Indian cities using historical AQI data.
